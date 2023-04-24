@@ -1,4 +1,4 @@
-# step-reinforced-random-walk-simulations
+# Step-reinforced random walk simulations
 
 A step-reinforced random walk (SRRW) is a fascinating stochastic process that allows us to simulate how reinforcement mechanisms, such as memory effects. Further, the phenomenon of anomalous diffusioon often arises in theoretical models by incorpartion of the same underlying mechanics. 
 
